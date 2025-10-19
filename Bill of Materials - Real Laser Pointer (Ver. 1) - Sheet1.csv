@@ -1,0 +1,22 @@
+Bill of Materials / Real Laser Pointer,,,,,
+Eddy Zhao,,,,,
+Version 1.0 - 18 October 2025,,,,,
+,,,,,
+Item Name,Purpose,Item Source,Quantity,Unit Cost (includes taxes),Cost
+HC-SR04 Ultrasonic Distance Sensor Module,Responsible for collecting ultrasonic distance data ,Amazon,1,$7.32,$7.32
+KY-008 Laser Pointer Module (5-Pack),Laser pointer module for accurate pointing,Amazon,1,$7.70,$7.70
+"0.91"" OLED (SSD1306) (2-Pack)",OLED module to report distance data from the HC-SR04 to the user,Amazon,1,$6.60,$6.60
+Black Electrical Tape (3/4 in x 60 ft),To connect the physical parts together,Amazon,1,$1.33,$1.33
+Arduino Nano (USB-C) (2-Pack),The brains,Amazon,1,$10.57,$10.57
+DuPont Jumper Cables,To connect the electrical parts together (I can't solder due to being in a college dorm),Amazon,1,$7.70,$7.70
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+TOTAL,,,6,,$41.22
+,,,,,
+Already Owned:,"Power Bank, USB-C to USB-C Cable",,,,
+,,,,,
+Notes,Any multi-pack on this list was just because I couldn't find anything for a lesser price,,,,
