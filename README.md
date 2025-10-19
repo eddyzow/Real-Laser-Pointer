@@ -7,3 +7,4 @@ Simply wear the attachment on your finger, turn it on, and it will periodically 
 
 (also attached to repo and [linked here](https://github.com/eddyzow/Real-Laser-Pointer/blob/main/CONCEPT.png))
 
+Bill of materials with links can be found [here](https://docs.google.com/spreadsheets/d/1FmCyamxs7kMOgWB9rQliGo95AneBvheCgFc-AYwulX4/edit?usp=sharing)
